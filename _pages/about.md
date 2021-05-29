@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
+# About Me
+* I am an [MD/PhD student](https://mdphd.johnshopkins.edu/) at [Johns Hopkins School of Medicine](https://www.hopkinsmedicine.org/som/). I am currently pursuing PhD in the [Department of Biomedical Engineering](https://www.bme.jhu.edu/), advised by Prof. [Alexis Battle](https://battlelab.jhu.edu/) and Prof. [Carl Wu] (http://carlwulab.com/). My Colleges Advisor is Dr. [L David Martin](https://www.hopkinsmedicine.org/profiles/details/lorrin-martin). [[Google Scholar](https://scholar.google.com/citations?user=GNsopccAAAAJ&hl=en)]
+* I am broadly interested in understanding genetic and epigenetic regulation of gene expression through statistical machine learning models using both single-cell multi-modal data types and real-time live-cell imaging of single molecules. 
+* Previously, I received my S.B. and M.Eng. from [MIT Department of Electrical Engineering and Computer Science](https://www.eecs.mit.edu/). My [master's thesis](https://dspace.mit.edu/handle/1721.1/113178) was performed at the [Stanley Center for Psychiatric Research at the Broad Institute](https://www.broadinstitute.org/stanley) on the geneics of autism spectrum disorders, mentored by Prof. [Guoping Feng](https://fenglaboratory.org/) and Prof. [Kasper Lage](https://www.lagelab.org/). My undergraduate thesis focused on neonatal ICU alarm burden, mentored by Prof. [Thomas Heldt](https://www.rle.mit.edu/incci/). 
+* I started my undergraduate training at the [University of Hong Kong](https://www.engineering.hku.hk/bmeengg/) where I worked with Prof. [Prof. Kevin Tsia](https://www.eee.hku.hk/~alphahku/). I studied abroad at [Magdalene College](https://www.magd.cam.ac.uk/), [University of Cambridge](https://www.cam.ac.uk/) where I worked with Prof. [Bon-Kyoung Koo](https://www.oeaw.ac.at/imba/research/bon-kyoung-koo) on CRISPR technology and colon organoid models. 
+
+
+# Professional Service
+* Admissions Committee, Johns Hopkins School of Medicine
+* LCME Re-accreditation Committee, Johns Hopkins School of Medicine
+* Medical Curriculum Content Review, Johns Hopkins School of Medicine
+* Undergraduate Advisory Group and Committee on Faculty Search, MIT Department of Electrical Engineering and Computer Science
+* Journal Reviewer: Human Genetics, Frontiers in Cell and Developmental Biology, Biochemical Genetics, Medicine
+* Membership: American Medical Association, American College of Physicians, American Society of Human Genetics, American Thoracic Society, American Heart Association, Asian Pacific American Medical Student Association
+
+
 
 A data-driven personal website
 ======
